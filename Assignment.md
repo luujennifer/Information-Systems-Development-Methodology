@@ -1,7 +1,6 @@
 # Information System Development Methodologies Assignment
 ## Tasks
 1. Outline the objectives of the project and define the problem (Steps 1 & 2 of Design Thinking Methodology).
-
 2. Identify stakeholders.
 3. Describe your approach from a Design Thinking principles perspective.
 4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use.
