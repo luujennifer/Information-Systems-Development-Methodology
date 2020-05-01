@@ -1,6 +1,6 @@
 # Information System Development Methodologies Assignment
 
-## Tasks
+## Tasks for the assignment
 1. Outline the objectives of the project and define the problem (Steps 1 & 2 of Design Thinking Methodology).
 2. Identify stakeholders.
 3. Describe your approach from a Design Thinking principles perspective.
@@ -9,3 +9,31 @@
 6. Document your proposed workproducts and models.
 7. Discuss the competitive advantages might be gained in developing the new information system. Identify and discuss the possible adverse effects for this Business if its information system project fails
 8. Document in GitHub all your iteration and models as you progress.
+
+## Assignment  
+
+### Objectives 
+
+
+### Problem Definition 
+
+
+### Stakeholders 
+
+
+### Approach
+
+
+### Choosen Agile Methodology & Associated Activities 
+
+
+### Assumptions 
+
+
+### Proposed Workproducts & Models
+
+
+### Benefits 
+
+
+### Potential Disadvantages If Information System Fails 
