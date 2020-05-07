@@ -1,0 +1,12 @@
+As a major travel company, I want to develop an information system so that I can improve the operation of our in-house call management centre (CMC).
+As a major travel company, I want the system to automatically dial numbers according to a generated customer target list, so that I can target the best potential buyers. 
+As a major travel company, I want a call routing and distribution routine so that inbound call costs are minimised by reducing per-call handling time.
+As a major travel company, I want to redirect customers to an Interactive Voice Response during busy time, so that I can manage customers the best way possible while maintaining good customer service.
+
+As a Relationship Manager (RM), I want the system to provide assistance in serving end-customers (or potential customers) and match end-customers according skill and customers profiles, so that there is improved call routing and dynamic call flow control for both inbound and outbound calls.
+As a Relationship Manager (RM), I want a supporting tool to create customer profiles, so that I can segment customers into social and cultural segments according to their postcodes and surnames.
+As a Relationship Manager (RM), I want the system to display buyer details and provide me with guidelines and a script so that I can provide an improved service to the end-customer.
+As a Relationship Manager (RM), I want a calculated customer skill score based on previous call durations and customer profiles, so that I can prioritise customers most likely to purchase.
+
+As a customer, I want to be matched with an employee based on their performance and product knowledge, so that I receive the best experience for my booking.
+As a customer, I want shorter waiting periods when on hold, so that I don’t feel like I am wasting my time.
