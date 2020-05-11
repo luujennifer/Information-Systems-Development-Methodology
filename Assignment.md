@@ -13,10 +13,13 @@
 ## Assignment  
 
 ### Objectives 
+The aim of this project is to develop an information system for a travel company to optimise their call management and in doing so, improve customer experience and increase potential for sale.
+The system will achieve this by appropriately matching relationship managers and customers based on the relationship managers skill and customer profile. 
+For example, the system will match a customer wishing to purchase a travel package for Europe with a relationship manager who is well informed about that destination, its traditions and the travel packages available. 
 
 
 ### Problem Definition 
-
+Currently there is no system to optimise the customer to relationship manager process. This leads to a less convincing sales pitches and thus lower potential for sales as relationship managers are not properly matched to customer profiles. 
 
 ### Stakeholders 
 
