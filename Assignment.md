@@ -33,6 +33,9 @@ This project has 3 main stakeholders, they are the major travel company, the rel
 
 #### POV Statements
 * Major Travel Company
+User | Need | Insight 
+-----|------|--------
+A major travel company lacking useable technology | The development of a suitable information system specific to the companies needs | The company will improve many aspects of their business with a new system, namely the "operation of our in-house call management centre (CMC)."
     * As a major travel company, I want to develop an information system so that I can improve the operation of our in-house call management centre (CMC).
     * As a major travel company, I want the system to automatically dial numbers according to a generated customer target list, so that I can target the best potential buyers. 
     * As a major travel company, I want a call routing and distribution routine so that inbound call costs are minimised by reducing per-call handling time.
@@ -47,7 +50,19 @@ This project has 3 main stakeholders, they are the major travel company, the rel
     * As a customer, I want shorter waiting periods when on hold, so that I don’t feel like I am wasting my time.
 
 #### How Might We Statements
-
+The following "How Might We" statements are based off the POV statements.
+* How might we improve the travel company business with the implementation of a new information system?
+* How might we ensure the successful integration of a new system?
+* How might we train employees to use the new system?
+* How might we notify customers of the changes, and respond to their comments and questions?
+* How might we develop the sytem in a way that doesn't affect the customers negatively?
+* How might we manipulate employees pre-existing skills within the new system to make sure they aren't useless?
+* How might we account for natural human bias within an automated information system?
+* How might we reduce costs through the use of this system?
+* How might we account for customers responses to an Interactive Voice Response system?
+* How might we ensure minimal holding times for customers within the new system, so as to not waste their time?
+* How might we create a better working experience for employees?
+* How might we use a Customer Profiling tool to this best of its ability?
 
 ### Approach
 
