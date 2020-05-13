@@ -28,7 +28,7 @@ This project has 3 main stakeholders, they are the major travel company, the rel
 1. Major Travel Company
 
 2. Relationship Managers
-![Empathy Map for Relationship Managers](RM-Empathy-Map.png)
+![Empathy Map for Relationship Managers](https://github.com/luujennifer/ISDM/blob/develop/RM-Empathy-Map.PNG)
 3. Customer
 
 #### POV Statements
