@@ -61,8 +61,7 @@ A Relationship Manager | Customer skill scores to be calculated, this could be b
 ##### Customer
 User | Need | Insight 
 -----|------|--------
-Customer | 
-To be matched with employees who have the best performance and product knowledge | Customers want the best custoer experience possible
+Customer | To be matched with employees who have the best performance and product knowledge | Customers want the best custoer experience possible
 Customer | Shorter waiting periods when I am on hold | Customers don't want to feel like they are wasting their time
 
 * As a customer, I want to be matched with an employee based on their performance and product knowledge, so that I receive the best experience for my booking.
