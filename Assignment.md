@@ -24,14 +24,14 @@ Currently there is no system to optimise the customer to relationship manager pr
 ### Stakeholders 
 This project has 3 main stakeholders, they are the major travel company, the relationship managers and the customers.
 
-**Empathy Maps**
+**Empathy Maps**<br/>
 1. Major Travel Company
 
 2. Relationship Managers
 ![Empathy Map for Relationship Managers](https://github.com/luujennifer/ISDM/blob/develop/RM-Empathy-Map.PNG)
 3. Customer
 
-**User Stories**
+**User Stories** <br/>
 The following are user stories written from the perspective of the major travel company, relationship manager and customer. 
 
 *Major Travel Company*
@@ -50,7 +50,7 @@ The following are user stories written from the perspective of the major travel 
 * As a customer, I want to be matched with an employee based on their performance and product knowledge, so that I receive the best experience for my booking.
 * As a customer, I want shorter waiting periods when on hold, so that I don’t feel like I am wasting my time.
 
-**POV Statements**
+**POV Statements** <br/>
 The following are POV statements written from the perspective of the major travel company, relationship manager and customer. 
 
 *Major Travel Company*
@@ -75,7 +75,7 @@ User | Need | Insight
 Customer | To be matched with employees who have the best performance and product knowledge | Customers want the best custoer experience possible
 Customer | Shorter waiting periods when I am on hold | Customers don't want to feel like they are wasting their time
 
-**How Might We Statements**
+**How Might We Statements** <br/>
 The following "How Might We" statements are based off the POV statements.
 * How might we improve the travel company business with the implementation of a new information system?
 * How might we ensure the successful integration of a new system?
