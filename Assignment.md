@@ -24,30 +24,71 @@ Currently there is no system to optimise the customer to relationship manager pr
 ### Stakeholders 
 This project has 3 main stakeholders, they are the major travel company, the relationship managers and the customers.
 
-#### Empathy Maps
+**Empathy Maps**<br/>
 1. Major Travel Company
 
 2. Relationship Managers
-
+![Empathy Map for Relationship Managers](https://github.com/luujennifer/ISDM/blob/develop/RM-Empathy-Map.PNG)
 3. Customer
 
-#### POV Statements
-* Major Travel Company
-    * As a major travel company, I want to develop an information system so that I can improve the operation of our in-house call management centre (CMC).
-    * As a major travel company, I want the system to automatically dial numbers according to a generated customer target list, so that I can target the best potential buyers. 
-    * As a major travel company, I want a call routing and distribution routine so that inbound call costs are minimised by reducing per-call handling time.
-    * As a major travel company, I want to redirect customers to an Interactive Voice Response during busy time, so that I can manage customers the best way possible while maintaining good customer service.
-* Relationship Manager
-    * As a Relationship Manager (RM), I want the system to provide assistance in serving end-customers (or potential customers) and match end-customers according skill and customers profiles, so that there is improved call routing and dynamic call flow control for both inbound and outbound calls.
-    * As a Relationship Manager (RM), I want a supporting tool to create customer profiles, so that I can segment customers into social and cultural segments according to their postcodes and surnames.
-    * As a Relationship Manager (RM), I want the system to display buyer details and provide me with guidelines and a script so that I can provide an improved service to the end-customer.
-    * As a Relationship Manager (RM), I want a calculated customer skill score based on previous call durations and customer profiles, so that I can prioritise customers most likely to purchase.
-* Customer
-    * As a customer, I want to be matched with an employee based on their performance and product knowledge, so that I receive the best experience for my booking.
-    * As a customer, I want shorter waiting periods when on hold, so that I don’t feel like I am wasting my time.
+**User Stories** <br/>
+The following are user stories written from the perspective of the major travel company, relationship manager and customer. 
 
-#### How Might We Statements
+*Major Travel Company*
+* As a major travel company, I want to develop an information system so that I can improve the operation of our in-house call management centre (CMC).
+* As a major travel company, I want the system to automatically dial numbers according to a generated customer target list, so that I can target the best potential buyers. 
+* As a major travel company, I want a call routing and distribution routine so that inbound call costs are minimised by reducing per-call handling time.
+* As a major travel company, I want to redirect customers to an Interactive Voice Response during busy time, so that I can manage customers the best way possible while maintaining good customer service.
 
+*Relationship Manager*
+* As a Relationship Manager (RM), I want the system to provide assistance in serving end-customers (or potential customers) and match end-customers according skill and customers profiles, so that there is improved call routing and dynamic call flow control for both inbound and outbound calls.
+* As a Relationship Manager (RM), I want a supporting tool to create customer profiles, so that I can segment customers into social and cultural segments according to their postcodes and surnames.
+* As a Relationship Manager (RM), I want the system to display buyer details and provide me with guidelines and a script so that I can provide an improved service to the end-customer.
+* As a Relationship Manager (RM), I want a calculated customer skill score based on previous call durations and customer profiles, so that I can prioritise customers most likely to purchase.
+
+*Customer*
+* As a customer, I want to be matched with an employee based on their performance and product knowledge, so that I receive the best experience for my booking.
+* As a customer, I want shorter waiting periods when on hold, so that I don’t feel like I am wasting my time.
+
+**POV Statements** <br/>
+The following are POV statements written from the perspective of the major travel company, relationship manager and customer. 
+
+*Major Travel Company*
+User | Need | Insight 
+-----|------|--------
+A major travel company lacking useable technology | The development of a suitable information system specific to the companies needs | The company will improve many aspects of their business with a new system, namely the "operation of our in-house call management centre (CMC)."
+An employee of a major travel company, who's job is to contact new potential customers | A system which automatically dials numbers according to a generated customer target list | Natural human bias and decison making isn't working for the current business model 
+A major travel company system developer | A call routing and distribution routine | Implementing routine into the business will reduce costs
+An employee who has worked during the busiest of times at the company | To be able to redirect customers to an Interactive Voice Respinse during busy times | Employees want to maintain the best customer service no matter the situation, however sometimes get overwhelmed by the volume of work at one time
+
+*Relationship Manager*
+User | Need | Insight 
+-----|------|--------
+A Relationship Manager (RM) seeking a better working experience for both myself and my customers | Assistance in serving end-customers or potential customer, and matching end-customer according to skill and customer profiles | The RMs want this improved experience for both themselves and customers, as these changes would improve call routing and the dynamic call flow control
+An RM struggling with the current tools in place to develop customer profiles | A supporting tool which creates customer profiles | A tool like this would provide the ability to segment customers socially and culturally, or by postcode and surnames
+A Relationship Manager wanting to know the perfect thing to say to customers | A system which displays customer details and provides a guideline or script as to what to say | This would improve customer service
+A Relationship Manager | Customer skill scores to be calculated, this could be based on previous call durations and customer profiles | RMs want to prioritise the customers most likely to purchase
+
+*Customer*
+User | Need | Insight 
+-----|------|--------
+Customer | To be matched with employees who have the best performance and product knowledge | Customers want the best custoer experience possible
+Customer | Shorter waiting periods when I am on hold | Customers don't want to feel like they are wasting their time
+
+**How Might We Statements** <br/>
+The following "How Might We" statements are based off the POV statements.
+* How might we improve the travel company business with the implementation of a new information system?
+* How might we ensure the successful integration of a new system?
+* How might we train employees to use the new system?
+* How might we notify customers of the changes, and respond to their comments and questions?
+* How might we develop the sytem in a way that doesn't affect the customers negatively?
+* How might we manipulate employees pre-existing skills within the new system to make sure they aren't useless?
+* How might we account for natural human bias within an automated information system?
+* How might we reduce costs through the use of this system?
+* How might we account for customers responses to an Interactive Voice Response system?
+* How might we ensure minimal holding times for customers within the new system, so as to not waste their time?
+* How might we create a better working experience for employees?
+* How might we use a Customer Profiling tool to this best of its ability?
 
 ### Approach
 
