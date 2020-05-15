@@ -113,8 +113,17 @@ Although the ceremonies, team structure and sprint duration from SCRUM have been
 
 ### Assumptions 
 Below are some assumptions made throughout the project. 
-* It is assumed that Relationship Managers are all around the same level in the management hierarchy and are not high up in management. This assumption is made as the concerns raised in the empathy map for Relationship Managers illustrates those concerns held by employees following the implementation of the proposed information system whereas managers may be more focused on the return on investment and profits garnered by the proposed system.
-* The empathy map for Relationship Managers also assumes that business is taking place during a normal situation e.g. not during the COVID-19 pandemic, and thus does not aim to address any concerns or issues presented by out of the ordinary situations. 
+* Relationship Managers
+    * It is assumed that Relationship Managers are all around the same level in the management hierarchy and are not high up in management. This assumption is made as the concerns raised in the empathy map for Relationship Managers illustrates those concerns held by employees following the implementation of the proposed information system whereas managers may be more focused on the return on investment and profits garnered by the proposed system.
+    * The empathy map for Relationship Managers also assumes that business is taking place during a normal situation e.g. not during the COVID-19 pandemic, and thus does not aim to address any concerns or issues presented by out of the ordinary situations. 
+* Customers 
+    * Customers are not quarantined and are free to travel where they choose.
+    * Customers do not hang up once they call the centre.
+    * Customers are aware of their own score between 1-10.
+    * Customers have to have their information registered in the database prior to purchasing a product.
+    * All customers are matched with an employee based on their product knowledge and availability.	
+    * The demographics of the Customers are not considered in their score.
+    * Only inbound customer calls are considered.
 
 
 ### Proposed Workproducts & Models
