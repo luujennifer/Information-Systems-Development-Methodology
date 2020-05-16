@@ -94,12 +94,36 @@ The following "How Might We" statements are based off the POV statements.
 
 
 ### Choosen Agile Methodology & Associated Activities 
+The agile methodology choosen for this project is SCRUM. SCRUM is an agile process that  focuses on delivering te business value in the shortest time possible and does so through rapid and repeated roduction of working software. It emphasises accountability, team work and agility, it looks as software development as a complicated and unpredictable process. Within SCRUM there are a number of different activities that take place, they are sprint planning, daily sprint, sprint review and sprint retrospective. Each event plays a vital role within the SCRUM framework. 
+
+For this project the following SCRUM activities will take place, sprint planning, daily sprint, sprint review and sprint retrospective, however these activities will be slightly modified to accomodate for the project and team requirements. 
+
+The following modifications have been made:
+* Instead of having a separate day for sprint planning, it has been incorporated as part of the daily sprint. It is no longer a formal ceremony, but has been built into the weekly meetings. 
+* Daily sprint/stand-up has been replaced with a weekly team meeting. This occurs every Thursday evening and is hosted through Zoom.
+* Sprint review is no longer a formal ceremony, but rather a continual process of improving team practices along the development of the project.It is informally conducted through weekly team meetings and messages.
+* Similar with the sprint review, the sprint retrospective is no longer a formal ceremony, but rather a continual process of improving team practices along the development of the project. It is informally conducted through weekly team meetings and messages.
+
+The team structure from scrum has also be appropriated as the team does not have a definitive product owner or scrum master, but rather are a unit of self organising individuals whose roles and responsibilities change situationally. 
+
+The duration of a sprint has also been slightly altered to accomodate for the constraints of the project. A typical SCRUM sprint ranges from 14-30 days, however due to the duration of the project, the sprint duration has been changed to 1-Week to better accomodate for the project timeline and constraints. 
+
+Although the ceremonies, team structure and sprint duration from SCRUM have been adapted for this project, the fundamental methodology and ideaology of SCRUM is still implemented as the team is actively working to produce workproducts and artefacts in an agile manner. 
 
 
 ### Assumptions 
 Below are some assumptions made throughout the project. 
-* It is assumed that Relationship Managers are all around the same level in the management hierarchy and are not high up in management. This assumption is made as the concerns raised in the empathy map for Relationship Managers illustrates those concerns held by employees following the implementation of the proposed information system whereas managers may be more focused on the return on investment and profits garnered by the proposed system.
-* The empathy map for Relationship Managers also assumes that business is taking place during a normal situation e.g. not during the COVID-19 pandemic, and thus does not aim to address any concerns or issues presented by out of the ordinary situations. 
+* Relationship Managers
+    * It is assumed that Relationship Managers are all around the same level in the management hierarchy and are not high up in management. This assumption is made as the concerns raised in the empathy map for Relationship Managers illustrates those concerns held by employees following the implementation of the proposed information system whereas managers may be more focused on the return on investment and profits garnered by the proposed system.
+    * The empathy map for Relationship Managers also assumes that business is taking place during a normal situation e.g. not during the COVID-19 pandemic, and thus does not aim to address any concerns or issues presented by out of the ordinary situations. 
+* Customers 
+    * Customers are not quarantined and are free to travel where they choose.
+    * Customers do not hang up once they call the centre.
+    * Customers are aware of their own score between 1-10.
+    * Customers have to have their information registered in the database prior to purchasing a product.
+    * All customers are matched with an employee based on their product knowledge and availability.	
+    * The demographics of the Customers are not considered in their score.
+    * Only inbound customer calls are considered.
 
 
 ### Proposed Workproducts & Models
