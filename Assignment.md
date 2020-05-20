@@ -13,23 +13,25 @@
 ## Assignment  
 
 ### Objectives 
-The aim of this project is to develop an information system for a travel company to optimise their call management and in doing so, improve customer experience and increase potential for sale.
-The system will achieve this by appropriately matching relationship managers and customers based on the relationship managers skill and customer profile, thus optimising the overall call experience for both the relationship managers and customers. 
+The aim of this project is to develop an information system for a travel company to optimise their call management and in doing so, improve customer experience and increase their potential for sale.
+The aim is to create an effective and efficient information that will be able to appropriately match relationship managers and customers based on the relationship managers skill and customers profile.Customers will be able to effortlessly be given possible products that are more suited to their needs and wants to create a higher probability of product purchasing. Relationship managers will be able to tailor their approach to suit the customers preferences and identify the customers target market, allowing them to deliver a stronger sales pitch. 
+The system will effectively optimise and improve the call experience for both relationship managers and the customers.
 For example, the system will match a customer wishing to purchase a travel package for Europe with a relationship manager who is well informed about that destination, its traditions and the travel packages available. 
 
 
 ### Problem Definition 
-Currently there is no system to optimise the customer to relationship manager process. This leads to a less convincing sales pitches and thus lower potential for sales as relationship managers are not properly matched to customer profiles. There is also currently no mechanism in place to gauge the customer's travel preferences prior to reaching a relationship manager which means that customers may be left to wait a long time for service as traffic is not monitored and optimised for greater efficiency and effectiveness. It also means that customers are likely to be matched with a relationship manager who is currently available for call instead of one who is well informed about their desired travel destination. 
+Currently there is no system that is able to effectively connect customers to suitable relationship managers. This leads to unproductive sales pitches and thus lower the potential for sales as relationship managers are not properly matched to customer profiles. There is also currently no mechanism in place to gauge the customer's travel preferences prior to reaching a relationship manager which means that customers may be left to wait a long periods of time for service as traffic is not monitored and optimised for greater efficiency and effectiveness. Ultimately,  customers are likely to be matched with a random relationship manager who is currently available for call instead of one who is well informed about their desired travel destination. 
 
 ### Stakeholders 
 This project has 3 main stakeholders, they are the major travel company, the relationship managers and the customers.
 
 **Empathy Maps**<br/>
 1. Major Travel Company
-
+![Empathy Map for Major Travel Company]()
 2. Relationship Managers
-![Empathy Map for Relationship Managers](https://github.com/luujennifer/ISDM/blob/develop/RM-Empathy-Map.PNG)
+![Empathy Map for Relationship Managers]()
 3. Customer
+![Empathy Map for Customers]()
 
 **User Stories** <br/>
 The following are user stories written from the perspective of the major travel company, relationship manager and customer. 
@@ -108,8 +110,9 @@ The team structure from scrum has also be appropriated as the team does not have
 
 The duration of a sprint has also been slightly altered to accomodate for the constraints of the project. A typical SCRUM sprint ranges from 14-30 days, however due to the duration of the project, the sprint duration has been changed to 1-Week to better accomodate for the project timeline and constraints. 
 
-Although the ceremonies, team structure and sprint duration from SCRUM have been adapted for this project, the fundamental methodology and ideaology of SCRUM is still implemented as the team is actively working to produce workproducts and artefacts in an agile manner. 
+Although the ceremonies, team structure and sprint duration from SCRUM have been adapted for this project, the fundamental methodology and ideaology of SCRUM is still implemented as the team is actively working to produce workproducts and artefacts in an agile manner.
 
+As part of the working arrangements, the team will be working collaboratively through GitHub. Each team member is expected to have their own fork, each fork in turn should have a master and a develop branch. Team members should work on the develop branch until a change is finalised, once finalised it may be pushed to the master branch. Upon pushing changes to the master branch, team members should open a pull request with a meaningful name, assign the pull request to themselves and request reviews from the team. If the pull request has been reviewed by at least one team member, the pull request can be merged and closed. Commits should also have meaningful names that makes it easier to trace back through the change history. 
 
 ### Assumptions 
 Below are some assumptions made throughout the project. 
@@ -124,10 +127,43 @@ Below are some assumptions made throughout the project.
     * All customers are matched with an employee based on their product knowledge and availability.	
     * The demographics of the Customers are not considered in their score.
     * Only inbound customer calls are considered.
+    * Customers will hand up after 20 minutes of waiting. 
+* Information System - Futura
+    * During outbound calls, if a custmer does not pick up their phone, the information system will automatically search for a new target customer and proceed to call them instead.
 
 
 ### Proposed Workproducts & Models
+The proposed workproducts and models for this project are use case diagrams, activity diagrams, a class diagram and collaborative diagrams. 
 
+**Use Case Diagrams**<br/>
+*Inbound Calls from Customers*
+![Use Case Diagram for Inbound Calls]()
+
+*Outbound Calls from Futura (Information System)*
+![Use Case Diagram for Outbound Calls]()
+
+**Activity Diagrams**<br/>
+*Inbound Calls from Customers*
+![Activity Diagram for Inbound Calls]()
+
+*Outbound Calls from Futura (Information System)*
+![Activity Diagram for Outbound Calls]()
+
+*Employee Onboarding to Futura*
+![Activity Diagram for Employee Onboarding]()
+
+**Class Diagram**<br/>
+![Class Diagram for Futura]()
+
+**Collaboration Diagrams**
+*Customers*
+![Collaboration Diagram for Customers]()
+
+*Relationship Managers*
+![Collaboration Diagram for Relationship Managers]()
+
+*Major Travel Company*
+![Collaboration Diagram for Major Travel Company]()
 
 ### Benefits 
 
