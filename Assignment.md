@@ -27,11 +27,11 @@ This project has 3 main stakeholders, they are the major travel company, the rel
 
 **Empathy Maps**<br/>
 1. Major Travel Company
-![Empathy Map for Major Travel Company]()
+![Empathy Map for Major Travel Company](https://github.com/kellickharry/ISDM/blob/master/Major-Travel-Company-Empathy-Map.PNG)
 2. Relationship Managers
 ![Empathy Map for Relationship Managers](https://github.com/kellickharry/ISDM/blob/master/RM-Empathy-Map.PNG)
 3. Customer
-![Empathy Map for Customers]()
+![Empathy Map for Customers](https://github.com/kellickharry/ISDM/blob/master/Customer-Empathy-Map.PNG)
 
 **User Stories** <br/>
 The following are user stories written from the perspective of the major travel company, relationship manager and customer. 
