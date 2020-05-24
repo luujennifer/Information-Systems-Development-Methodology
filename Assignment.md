@@ -152,7 +152,7 @@ The proposed workproducts and models for this project are use case diagrams, act
 
 **Activity Diagrams**<br/>
 *Inbound Calls from Customers*
-![Activity Diagram for Inbound Calls]()
+![Activity Diagram for Inbound Calls](https://github.com/kellickharry/ISDM/blob/master/Inbound%20Calls%20Customers%20Use%20Case%20Diagram.png)
 
 *Outbound Calls from Futura (Information System)*
 ![Activity Diagram for Outbound Calls]()
