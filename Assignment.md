@@ -1,8 +1,5 @@
 # Information System Development Methodologies Assignment
 
-## Tasks for the assignment
-
-
 ## Assignment  
 
 ### Objectives 
