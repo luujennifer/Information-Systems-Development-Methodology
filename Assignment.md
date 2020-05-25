@@ -164,14 +164,12 @@ The proposed workproducts and models for this project are use case diagrams, act
 ![Class Diagram for Futura]()
 
 **Collaboration Diagrams**
-*Customers*
-![Collaboration Diagram for Customers]()
+*Inbound Calls*
+![Collaboration Diagram for Inbound Calls]()
 
-*Relationship Managers*
-![Collaboration Diagram for Relationship Managers]()
+*Outbound Calls*
+![Collaboration Diagram for Outbound Calls]()
 
-*Major Travel Company*
-![Collaboration Diagram for Major Travel Company]()
 
 ### Benefits 
 
