@@ -1,14 +1,6 @@
 # Information System Development Methodologies Assignment
 
 ## Tasks for the assignment
-1. Outline the objectives of the project and define the problem (Steps 1 & 2 of Design Thinking Methodology).
-2. Identify stakeholders.
-3. Describe your approach from a Design Thinking principles perspective.
-4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use.
-5. List assumptions you have made in the systems analysis.
-6. Document your proposed workproducts and models.
-7. Discuss the competitive advantages might be gained in developing the new information system. Identify and discuss the possible adverse effects for this Business if its information system project fails
-8. Document in GitHub all your iteration and models as you progress.
 
 ## Assignment  
 
@@ -27,11 +19,11 @@ This project has 3 main stakeholders, they are the major travel company, the rel
 
 **Empathy Maps**<br/>
 1. Major Travel Company
-![Empathy Map for Major Travel Company]()
+![Empathy Map for Major Travel Company](https://github.com/kellickharry/ISDM/blob/master/Major-Travel-Company-Empathy-Map.PNG)
 2. Relationship Managers
-![Empathy Map for Relationship Managers]()
+![Empathy Map for Relationship Managers](https://github.com/kellickharry/ISDM/blob/master/RM-Empathy-Map.PNG)
 3. Customer
-![Empathy Map for Customers]()
+![Empathy Map for Customers](https://github.com/kellickharry/ISDM/blob/master/Customer-Empathy-Map.PNG)
 
 **User Stories** <br/>
 The following are user stories written from the perspective of the major travel company, relationship manager and customer. 
@@ -93,7 +85,15 @@ The following "How Might We" statements are based off the POV statements.
 * How might we use a Customer Profiling tool to this best of its ability?
 
 ### Approach
+Our approach revolved around converting the travel company’s needs into demand, which will improve their business. Design Thinking encourages us to take a customer-oriented approach using agile decision making. In this case study, we recognise the travel company, their relationship managers and their customers as key stakeholders. When looking to remove the stakeholders pain points, the first step is to empathize with the stakeholders. By placing ourselves in the users’ shoes, we can pinpoint their wants, needs and struggles. Key tools we used to do this were Empathy Maps for each stakeholder, User Stories and How Might We’s.
 
+Next, we look to define the problems that we have identified. We believe it is important to know our stakeholders, and their needs, in order to properly define their problems and work towards a solution. This can be done through re-framing the problem(s). By using Point of View statements, we were able to clearly define the problems of each of our stakeholders.
+
+The next stage of our approach follows into the Ideation stage. In this stage, we develop as many ideas for our previously identified problems as possible. At this point of the approach any idea is written down, which we later collate and refine into a feasible solution. Similarly, we use exercises like Brainstorming and Worst Possible Idea to look for more ways to reframe the problems. Following on from this, collating and refining ideas based on potential and through voting revels our most feasible solutions we can then use to prototype.
+
+By prototyping our solutions, we can develop inexpensive, shareable products to help use further identify the best solutions. These can be shown to stakeholders to seek feedback, looking for acceptance, improvement or rejection. This stage also allows us to have a better perspective on real world users and their behaviour. With these products, we can ask questions like, “Would people use it?”, “Would people buy it?”, “Will it be easier for them to use?” and “Will the design be simple and novel?”
+
+The final stage of our Design Thinking approach is iterative testing. We use our prototypes to redefine problems we previously defined and develop greater understanding of the users, their condition, thoughts, behaviour and feelings. As this is an iterative cycle, we can alter and refine in order to rule out problem solutions and therefore derive deeper understanding of our prototypes and ideas, users and their problems.
 
 ### Choosen Agile Methodology & Associated Activities 
 The agile methodology choosen for this project is SCRUM. SCRUM is an agile process that  focuses on delivering te business value in the shortest time possible and does so through rapid and repeated roduction of working software. It emphasises accountability, team work and agility, it looks as software development as a complicated and unpredictable process. Within SCRUM there are a number of different activities that take place, they are sprint planning, daily sprint, sprint review and sprint retrospective. Each event plays a vital role within the SCRUM framework. 
@@ -137,33 +137,31 @@ The proposed workproducts and models for this project are use case diagrams, act
 
 **Use Case Diagrams**<br/>
 *Inbound Calls from Customers*
-![Use Case Diagram for Inbound Calls]()
+![Use Case Diagram for Inbound Calls](https://github.com/kellickharry/ISDM/blob/master/Inbound%20Calls%20Customers%20Use%20Case%20Diagram.png)
 
 *Outbound Calls from Futura (Information System)*
 ![Use Case Diagram for Outbound Calls]()
 
 **Activity Diagrams**<br/>
 *Inbound Calls from Customers*
-![Activity Diagram for Inbound Calls]()
+![Activity Diagram for Inbound Calls](https://github.com/kellickharry/ISDM/blob/master/Inbound%20Calls.png)
 
 *Outbound Calls from Futura (Information System)*
-![Activity Diagram for Outbound Calls]()
+![Activity Diagram for Outbound Calls](https://github.com/kellickharry/ISDM/blob/master/Outbound%20Calls.png)
 
 *Employee Onboarding to Futura*
-![Activity Diagram for Employee Onboarding]()
+![Activity Diagram for Employee Onboarding](https://github.com/kellickharry/ISDM/blob/master/Employee.png)
 
 **Class Diagram**<br/>
 ![Class Diagram for Futura]()
 
 **Collaboration Diagrams**
-*Customers*
-![Collaboration Diagram for Customers]()
+*Inbound Calls*
+![Collaboration Diagram for Inbound Calls]()
 
-*Relationship Managers*
-![Collaboration Diagram for Relationship Managers]()
+*Outbound Calls*
+![Collaboration Diagram for Outbound Calls]()
 
-*Major Travel Company*
-![Collaboration Diagram for Major Travel Company]()
 
 ### Benefits 
 
