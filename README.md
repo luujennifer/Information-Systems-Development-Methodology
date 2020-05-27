@@ -5,3 +5,6 @@ Here is the link for the use case diagram for outgoing calls to potential custom
 
 Here is the link for the use case diagram for inbound calls to the travel company:
 https://app.lucidchart.com/invitations/accept/c884b991-8028-4493-897c-874e451c6c75
+
+Link for collaboration diagram for outbound calls:
+https://app.lucidchart.com/invitations/accept/ddced46d-f0e9-4e47-9da5-821bf546cc01
