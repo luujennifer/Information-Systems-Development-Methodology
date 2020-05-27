@@ -162,3 +162,6 @@ __*Outbound Calls*__
 
 
 ## Potential Disadvantages If Information System Fails 
+
+
+## Summary
