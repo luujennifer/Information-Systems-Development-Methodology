@@ -123,7 +123,7 @@ Below are some assumptions made throughout the project.
     * The demographics of the Customers are not considered in their score.
     * Only inbound customer calls are considered.
     * Customers will hand up after 20 minutes of waiting. 
-* Information System - Futura
+* CMC System
     * During outbound calls, if a custmer does not pick up their phone, the information system will automatically search for a new target customer and proceed to call them instead.
 
 
