@@ -138,7 +138,7 @@ __*Inbound Calls from Customers*__
 ![Use Case Diagram for Inbound Calls](https://github.com/kellickharry/ISDM/blob/master/Inbound%20Calls%20Customers%20Use%20Case%20Diagram.png)
 
 __*Outbound Calls from CMC System (Information System)*__
-![Use Case Diagram for Outbound Calls]()
+![Use Case Diagram for Outbound Calls](https://github.com/kellickharry/ISDM/blob/master/Outbound%20Calls%20Use%20Case%20Diagram.png)
 
 ### Activity Diagrams
 __*Inbound Calls from Customers*__
