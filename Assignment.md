@@ -122,10 +122,12 @@ Below are some assumptions made throughout the project.
     * Customers have to have their information registered in the database prior to purchasing a product.
     * All customers are matched with an employee based on their product knowledge and availability.	
     * The demographics of the Customers are not considered in their score.
-    * Only inbound customer calls are considered.
+    * Only inbound customer calls are considered (for empathy map).
     * Customers will hand up after 20 minutes of waiting. 
-* CMC System
+
+* CMC System - Information System
     * During outbound calls, if a custmer does not pick up their phone, the information system will automatically search for a new target customer and proceed to call them instead.
+    * For outbound calls, the information system will not attempt to contact a target customer twice if the customer does not pick up the call. This will only occur if the target customer forms part of the new target list formulated by the information system.
 
 
 ## Proposed Workproducts & Models
