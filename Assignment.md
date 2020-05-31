@@ -1,8 +1,9 @@
 # Information System Development Methodologies Assignment
+## Introduction
 
 ## Objectives 
 The aim of this project is to develop an information system for a travel company to optimise their call management and in doing so, improve customer experience and increase their potential for sale.
-The aim is to create an effective and efficient information that will be able to appropriately match relationship managers and customers based on the relationship managers skill and customers profile.Customers will be able to effortlessly be given possible products that are more suited to their needs and wants to create a higher probability of product purchasing. Relationship managers will be able to tailor their approach to suit the customers preferences and identify the customers target market, allowing them to deliver a stronger sales pitch. 
+The aim is to create an effective and efficient information system that will be able to appropriately match relationship managers and customers based on the relationship managers skill and customers profile. Customers will be able to effortlessly be given possible products that are more suited to their needs and wants to create a higher probability of product purchasing. Relationship managers will be able to tailor their approach to suit the customers preferences and identify the customers target market, allowing them to deliver a stronger sales pitch. 
 The system will effectively optimise and improve the call experience for both relationship managers and the customers.
 For example, the system will match a customer wishing to purchase a travel package for Europe with a relationship manager who is well informed about that destination, its traditions and the travel packages available. 
 
@@ -123,6 +124,7 @@ Below are some assumptions made throughout the project.
     * The demographics of the Customers are not considered in their score.
     * Only inbound customer calls are considered (for empathy map).
     * Customers will hand up after 20 minutes of waiting. 
+
 * CMC System - Information System
     * During outbound calls, if a custmer does not pick up their phone, the information system will automatically search for a new target customer and proceed to call them instead.
     * For outbound calls, the information system will not attempt to contact a target customer twice if the customer does not pick up the call. This will only occur if the target customer forms part of the new target list formulated by the information system.
