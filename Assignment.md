@@ -1,4 +1,6 @@
 # Information System Development Methodologies Assignment
+## Introduction
+
 ## Objectives 
 The aim of this project is to develop an information system for a travel company to optimise their call management and in doing so, improve customer experience and increase their potential for sale.
 The aim is to create an effective and efficient information system that will be able to appropriately match relationship managers and customers based on the relationship managers skill and customers profile. Customers will be able to effortlessly be given possible products that are more suited to their needs and wants to create a higher probability of product purchasing. Relationship managers will be able to tailor their approach to suit the customers preferences and identify the customers target market, allowing them to deliver a stronger sales pitch. 
