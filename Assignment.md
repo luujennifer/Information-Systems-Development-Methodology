@@ -146,7 +146,7 @@ __*Inbound Calls from Customers*__
 ![Activity Diagram for Inbound Calls](https://github.com/kellickharry/ISDM/blob/master/Outbound%20Calls%20v3.png)
 
 __*Outbound Calls from CMC System (Information System)*__
-![Activity Diagram for Outbound Calls](https://github.com/kellickharry/ISDM/blob/master/Outbound%20Calls.png)
+![Activity Diagram for Outbound Calls](https://github.com/kellickharry/ISDM/blob/master/Outbound%20Calls%20v3.png)
 
 __*Employee Onboarding to CMC System*__
 ![Activity Diagram for Employee Onboarding](https://github.com/kellickharry/ISDM/blob/master/Employee%20v3.png)
