@@ -129,6 +129,7 @@ Below are some assumptions made throughout the project.
 * CMC System - Information System
     * During outbound calls, if a custmer does not pick up their phone, the information system will automatically search for a new target customer and proceed to call them instead.
     * For outbound calls, the information system will not attempt to contact a target customer twice if the customer does not pick up the call. This will only occur if the target customer forms part of the new target list formulated by the information system.
+    * The profile tool uses segments customers by their postcode and surname.
 
 
 ## Proposed Workproducts & Models
