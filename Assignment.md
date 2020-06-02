@@ -8,7 +8,7 @@ Our project documents the process and methodologies our group used to develop an
 
 ## Objectives 
 The aim of this project is to develop an information system for a travel company to optimise their call management and in doing so, improve customer experience and increase their potential for sale.
-It will create an effective and efficient information system that will be able to appropriately match relationship managers and customers based on the relationship managers skill and customers profile. Customers will be able to effortlessly find possible products that are suited to their needs and wants, increasing the probability of product purchasing. Relationship managers will be able to tailor their approach to suit the customers preferences and identify the customers target market, allowing them to strengthen their sales pitch. 
+We aim to create an effective and efficient information system that will be able to appropriately match relationship managers and customers based on the relationship managers skill and customers profile. Customers will be able to effortlessly find possible products that are suited to their needs and wants, increasing the probability of product purchasing. Relationship managers will be able to tailor their approach to suit the customers preferences and identify the customers target market, allowing them to strengthen their sales pitch. 
 The system will effectively optimise and improve the call experience overall.
 
 For example, the system will match a customer wishing to purchase a travel package for Europe to a well informed relationship manager aware of the destination, traditions, culture and travel packages. 
