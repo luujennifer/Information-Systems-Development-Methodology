@@ -1,8 +1,8 @@
 # Information System Development Methodologies Assignment
-*Harrison Kellick (13196997)
-*Jennifer Luu (13591502)
-*Kenson Lang (13554148)
-*Alexander An (13190677)
+* Harrison Kellick (13196997)
+* Jennifer Luu (13591502)
+* Kenson Lang (13554148)
+* Alexander An (13190677)
 
 __*Link To Video Presentation:*__ https://www.youtube.com/watch?v=leCHLGkw7wQ&feature=youtu.be
 
