@@ -130,7 +130,7 @@ Below are the assumptions made throughout the project.
     * All customers are matched with an employee based on their product knowledge and availability.
     * The demographics of the Customers are not considered in their score.
     * Only inbound customer calls are considered (for empathy map).
-    * Customers will hand up after 20 minutes of waiting.
+    * Customers will hang up after 20 minutes of waiting.
 
 * CMC System - Information System
     * During outbound calls, if a customer does not pick up their phone, the information system will automatically search for a new target customer and proceed to call them instead.
