@@ -1,8 +1,13 @@
 # Information System Development Methodologies Assignment
+Harrison Kellick (13196997) | Jennifer Luu (13591502) | Kenson Lang (13554148) | Alexander An (13190677)
+
+__Link To Video Presentation:__[Video Presentation Link](https://www.youtube.com/watch?v=leCHLGkw7wQ&feature=youtu.be)
+
 ## Introduction
 Our project documents the process and methodologies our group used to develop an information system for the provided case study. We have developed a 2000 word business report within Github, using version control and recorded a presentation to demonstrate our journey. We have included all resulting documentation from our Design Thinking and Agile methodology, including UML workproducts and models. Within Github, we have used tools such as commits, pull requests, issues and projects to record our collaborative progression.
 
 ## Objectives 
+
 The aim of this project is optimise call management and improve the customer experience, increasing potential sales.
 We aim to create an effective and efficient information system, able to appropriately match relationship managers (RMs) and customers based on the RMs skill and customers profile. Customers will be effortlessly given possible products that are suited to their needs and wants to create a higher probability of product purchasing. RMs will be able to tailor their approach to suit the customers preferences and identify the customers target market, allowing them to deliver a stronger sales pitch. 
 The system will effectively optimise and improve the call experience for both relationship managers and the customers.
@@ -14,6 +19,7 @@ Currently there is no system that is able to effectively connect customers to su
 ## Stakeholders 
 This project has 3 main stakeholders, they are the travel company, the relationship managers and the customers.
 
+
 ### Empathy Maps
 1. Major Travel Company
 ![Empathy Map for Major Travel Company](https://github.com/kellickharry/ISDM/blob/master/Major-Travel-Company-Empathy-Map.PNG)
@@ -23,7 +29,7 @@ This project has 3 main stakeholders, they are the travel company, the relations
 ![Empathy Map for Customers](https://github.com/kellickharry/ISDM/blob/master/Customer-Empathy-Map.PNG)
 
 ### User Stories
-The following are user stories written from the perspective of the major travel company, relationship manager and customer. 
+The user stories written from the perspective each of the 3 stakeholders. 
 
 __*Major Travel Company*__
 * As a major travel company, I want to develop an information system so that I can improve the operation of our in-house call management centre (CMC).
@@ -42,7 +48,7 @@ __*Customer*__
 * As a customer, I want shorter waiting periods when on hold, so that I don’t feel like I am wasting my time.
 
 ### POV Statements
-The following are POV statements written from the perspective of the major travel company, relationship manager and customer. 
+The POV statements written from the perspective each of the 3 stakeholders. 
 
 __*Major Travel Company*__
 User | Need | Insight 
@@ -93,26 +99,25 @@ By prototyping our solutions, we can develop inexpensive, shareable products to 
 The final stage of our Design Thinking approach is iterative testing. We use our prototypes to redefine problems we previously defined and develop greater understanding of the users, their condition, thoughts, behaviour and feelings. As this is an iterative cycle, we can alter and refine in order to rule out problem solutions and therefore derive deeper understanding of our prototypes and ideas, users and their problems.
 
 ## Choosen Agile Methodology & Associated Activities 
-The agile methodology choosen for this project is SCRUM. SCRUM is an agile process that  focuses on delivering te business value in the shortest time possible and does so through rapid and repeated roduction of working software. It emphasises accountability, team work and agility, it looks as software development as a complicated and unpredictable process. Within SCRUM there are a number of different activities that take place, they are sprint planning, daily sprint, sprint review and sprint retrospective. Each event plays a vital role within the SCRUM framework. 
+The agile methodology choosen for this project is SCRUM. SCRUM is an agile process that  focuses on delivering te business value in the shortest time possible and does so through rapid and repeated production of working software. It emphasises accountability, team work and agility, it looks as software development as a complicated and unpredictable process. Within SCRUM there are many different structures such as ceremonies, roles and artefacts all of which play a vital role
 
-For this project the following SCRUM activities will take place, sprint planning, daily sprint, sprint review and sprint retrospective, however these activities will be slightly modified to accomodate for the project and team requirements. 
+For this project the following SCRUM structures have been modified to accomodate for the project requirements. 
 
 The following modifications have been made:
-* Instead of having a separate day for sprint planning, it has been incorporated as part of the daily sprint. It is no longer a formal ceremony, but has been built into the weekly meetings. 
-* Daily sprint/stand-up has been replaced with a weekly team meeting. This occurs every Thursday evening and is hosted through Zoom.
-* Sprint review is no longer a formal ceremony, but rather a continual process of improving team practices along the development of the project.It is informally conducted through weekly team meetings and messages.
-* Similar with the sprint review, the sprint retrospective is no longer a formal ceremony, but rather a continual process of improving team practices along the development of the project. It is informally conducted through weekly team meetings and messages.
+* Sprint planning is no longer a stand-alone formal ceremony, it has been incorporated into daily sprint for better time efficiency.
+* Daily sprint/stand-up has been replaced with a weekly team meeting hosted over Zoom.
+* Sprint review and retrospective are no longer a formal ceremonies, but continual processes of improvement.It is informally conducted through weekly team meetings, tutorial classes or through messages.
 
-The team structure from scrum has also be appropriated as the team does not have a definitive product owner or scrum master, but rather are a unit of self organising individuals whose roles and responsibilities change situationally. 
+Team structure has been appropriated with the removal of the need for a product owner and scrum master. The team operates as a unit of self organising individuals whose roles and responsibilities can change situationally. 
 
-The duration of a sprint has also been slightly altered to accomodate for the constraints of the project. A typical SCRUM sprint ranges from 14-30 days, however due to the duration of the project, the sprint duration has been changed to 1-Week to better accomodate for the project timeline and constraints. 
+The sprint duration has been made 1-week to better accomodate for the project timeline as well as the expected progress that was outlined in the project plan and alignment document. 
 
-Although the ceremonies, team structure and sprint duration from SCRUM have been adapted for this project, the fundamental methodology and ideaology of SCRUM is still implemented as the team is actively working to produce workproducts and artefacts in an agile manner.
+Although SCRUM structured have been modified, the fundamental methodology and ideaology of SCRUM is still implemented as the team is actively working to produce workproducts and artefacts in an agile manner.
 
-As part of the working arrangements, the team will be working collaboratively through GitHub. Each team member is expected to have their own fork, each fork in turn should have a master and a develop branch. Team members should work on the develop branch until a change is finalised, once finalised it may be pushed to the master branch. Upon pushing changes to the master branch, team members should open a pull request with a meaningful name, assign the pull request to themselves and request reviews from the team. If the pull request has been reviewed by at least one team member, the pull request can be merged and closed. Commits should also have meaningful names that makes it easier to trace back through the change history. 
+As part of the project, the team is working collaboratively through GitHub. Each team member has their own fork, each fork should have a master and a develop branch. Team members should work on the develop branch until a change is finalised, once finalised the main respository can be updated. Upon updating the main repository, team members should open a pull request with a meaningful name, assign the pull request to themselves, request reviews from the team and linked to appropriate issue/s. If the pull request has been reviewed by at least one team member, the pull request can be merged and closed. Commits should also have meaningful names that makes it easier to trace back through the change history. 
 
 ## Assumptions 
-Below are some assumptions made throughout the project. 
+Below are the assumptions made throughout the project. 
 * Relationship Managers
     * It is assumed that Relationship Managers are all around the same level in the management hierarchy and are not high up in management. This assumption is made as the concerns raised in the empathy map for Relationship Managers illustrates those concerns held by employees following the implementation of the proposed information system whereas managers may be more focused on the return on investment and profits garnered by the proposed system.
     * The empathy map for Relationship Managers also assumes that business is taking place during a normal situation e.g. not during the COVID-19 pandemic, and thus does not aim to address any concerns or issues presented by out of the ordinary situations. 
