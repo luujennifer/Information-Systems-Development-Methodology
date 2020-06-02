@@ -4,20 +4,21 @@ Harrison Kellick (13196997) | Jennifer Luu (13591502) | Kenson Lang (13554148) |
 __Link To Video Presentation:__[Video Presentation Link](https://www.youtube.com/watch?v=leCHLGkw7wQ&feature=youtu.be)
 
 ## Introduction
-Our project documents the process and methodologies our group used to develop and information system for the provided case study. We have developed a 2000 word business report and recorded presentation to demonstrate our journey. The report has been developed in Markdown format using version control in Github. We have included all resulting documentation from our Design Thinking and Agile methodology, including UML workproducts and models. Within Github, we have used tools such as commits, pull requests, issues and projects to record our collaborative progression.
+Our project documents the process and methodologies our group used to develop an information system for the provided case study. We have developed a 2000 word business report within Github, using version control and recorded a presentation to demonstrate our journey. We have included all resulting documentation from our Design Thinking and Agile methodology, including UML workproducts and models. Within Github, we have used tools such as commits, pull requests, issues and projects to record our collaborative progression.
 
 ## Objectives 
-The aim of this project is to develop an information system for a travel company to optimise their call management and in doing so, improve customer experience and increase their potential for sale.
-We aim to create an effective and efficient information system that will be able to appropriately match relationship managers and customers based on the relationship managers skill and customers profile. Customers will be able to effortlessly find possible products that are suited to their needs and wants, increasing the probability of product purchasing. Relationship managers will be able to tailor their approach to suit the customers preferences and identify the customers target market, allowing them to strengthen their sales pitch. 
-The system will effectively optimise and improve the call experience overall.
 
-For example, the system will match a customer wishing to purchase a travel package for Europe to a well informed relationship manager aware of the destination, traditions, culture and travel packages. 
+The aim of this project is optimise call management and improve the customer experience, increasing potential sales.
+We aim to create an effective and efficient information system, able to appropriately match relationship managers (RMs) and customers based on the RMs skill and customers profile. Customers will be effortlessly given possible products that are suited to their needs and wants to create a higher probability of product purchasing. RMs will be able to tailor their approach to suit the customers preferences and identify the customers target market, allowing them to deliver a stronger sales pitch. 
+The system will effectively optimise and improve the call experience for both relationship managers and the customers.
+For example, the system will match a customer wishing to purchase a travel package for Europe with a RM who is well informed about that destination, its traditions and the travel packages available. 
 
 ## Problem Definition 
-Currently there is no system that is able to effectively connect customers to suitable relationship managers. This leads to unproductive sales pitches and thus lower the potential for sales as relationship managers are not properly matched to customer profiles. There is also currently no method to gauge the customer's travel preferences prior to reaching a relationship manager meaning that customers may be left to wait a long periods of time for service as traffic is not monitored and optimised for greatest efficacy. Ultimately,  customers are likely to be matched with any relationship manager who is currently available for call instead of one who is well informed about their desired travel destination. 
+Currently there is no system that is able to effectively connect customers to suitable RMs. This leads to unproductive sales pitches and thus lower the potential for sales as RMs are not properly matched to customer profiles. There is also currently no mechanism in place to gauge the customer's travel preferences prior to reaching a RM which means that customers may be left to wait a long periods of time for service as traffic is not monitored and optimised for greater efficiency and effectiveness. Ultimately, customers are likely to be matched with any available RM, instead of one who is well informed about their desired travel destination. 
 
 ## Stakeholders 
-This project has 3 main stakeholders, they are the major travel company, relationship managers and customers.
+This project has 3 main stakeholders, they are the travel company, the relationship managers and the customers.
+
 
 ### Empathy Maps
 1. Major Travel Company
