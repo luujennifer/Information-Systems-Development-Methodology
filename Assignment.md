@@ -1,7 +1,7 @@
 # Information System Development Methodologies Assignment
 Harrison Kellick (13196997) | Jennifer Luu (13591502) | Kenson Lang (13554148) | Alexander An (13190677)
 
-__Link To Video Presentation:__
+__Link To Video Presentation:__[Video Presentation Link](https://www.youtube.com/watch?v=leCHLGkw7wQ&feature=youtu.be)
 
 ## Introduction
 Our project documents the process and methodologies our group used to develop and information system for the provided case study. We have developed a 2000 word business report and recorded presentation to demonstrate our journey. The report has been developed in Markdown format using version control in Github. We have included all resulting documentation from our Design Thinking and Agile methodology, including UML workproducts and models. Within Github, we have used tools such as commits, pull requests, issues and projects to record our collaborative progression.
