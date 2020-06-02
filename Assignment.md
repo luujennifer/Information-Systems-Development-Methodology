@@ -1,13 +1,15 @@
 # Information System Development Methodologies Assignment
-Harrison Kellick (13196997)  |  Jennifer Luu (13591502)  |  Kenson Lang (13554148)  |  Alexander An (13190677)
+*Harrison Kellick (13196997)
+*Jennifer Luu (13591502)
+*Kenson Lang (13554148)
+*Alexander An (13190677)
 
-__Link To Video Presentation:__https://www.youtube.com/watch?v=leCHLGkw7wQ&feature=youtu.be
+__*Link To Video Presentation:*__ https://www.youtube.com/watch?v=leCHLGkw7wQ&feature=youtu.be
 
 ## Introduction
-Our project documents the process and methodologies our group used to develop an information system for the provided case study. We have developed a 2000 word business report within Github, using version control and recorded a presentation to demonstrate our journey. We have included all resulting documentation from our Design Thinking and Agile methodology, including UML workproducts and models. Within Github, we have used tools such as commits, pull requests, issues and projects to record our collaborative progression.
+Our project documents the process and methodologies our group used to develop an information system for the provided case study. We have developed a 2000 word business report within Github, using version control and recorded a presentation to demonstrate our journey. We have included all resulting documentation from our Design Thinking and Agile methodology, including UML workproducts and models. Within Github, we have used features such as commits, pull requests, issues and projects to record our collaborative progression.
 
 ## Objectives 
-
 The aim of this project is optimise call management and improve the customer experience, increasing potential sales.
 We aim to create an effective and efficient information system, able to appropriately match relationship managers (RMs) and customers based on the RMs skill and customers profile. Customers will be effortlessly given possible products that are suited to their needs and wants to create a higher probability of product purchasing. RMs will be able to tailor their approach to suit the customers preferences and identify the customers target market, allowing them to deliver a stronger sales pitch. 
 The system will effectively optimise and improve the call experience for both relationship managers and the customers.
@@ -18,7 +20,6 @@ Currently there is no system that is able to effectively connect customers to su
 
 ## Stakeholders 
 This project has 3 main stakeholders, they are the travel company, the relationship managers and the customers.
-
 
 ### Empathy Maps
 1. Major Travel Company
@@ -135,7 +136,6 @@ Below are the assumptions made throughout the project.
     * During outbound calls, if a custmer does not pick up their phone, the information system will automatically search for a new target customer and proceed to call them instead.
     * For outbound calls, the information system will not attempt to contact a target customer twice if the customer does not pick up the call. This will only occur if the target customer forms part of the new target list formulated by the information system.
     * The profile tool uses segments customers by their postcode and surname.
-
 
 ## Proposed Workproducts & Models
 The proposed workproducts and models for this project are use case diagrams, activity diagrams, a class diagram and collaborative diagrams. 
