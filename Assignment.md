@@ -149,7 +149,7 @@ __*Outbound Calls from CMC System (Information System)*__
 
 ### Activity Diagrams
 __*Inbound Calls from Customers*__
-![Activity Diagram for Inbound Calls](https://github.com/kellickharry/ISDM/blob/master/Outbound%20Calls%20v3.png)
+![Activity Diagram for Inbound Calls](https://github.com/kellickharry/ISDM/blob/master/Inbound%20Calls%20v3.png)
 
 __*Outbound Calls from CMC System (Information System)*__
 ![Activity Diagram for Outbound Calls](https://github.com/kellickharry/ISDM/blob/master/Outbound%20Calls%20v3.png)
